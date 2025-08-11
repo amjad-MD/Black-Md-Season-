@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/Elisa449"><img src="https://github.com/username.png" width="250" height="250" alt="Malvin Tech"/></a>
+ <a href="https://github.com/Elisa449"><img src="https://github.com/Elisa449.png" width="250" height="250" alt="Amanda"/></a>
 
    
