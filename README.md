@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/Elisa449"><img src="https://github.com/Elisa449.png" width="250" height="250" alt="Amanda"/></a>
+ <a href="https://github.com/Elisa449"><img src="https://www.freepik.com/free-ai-image/anime-style-illustration-with-scary-halloween-scene_299799233.htm#fromView=keyword&page=1&position=22&uuid=dd589a41-c425-43b7-88ef-c598d9a88f0f&query=Anime+Black+Wallpaper" width="250" height="250" alt="Amanda"/></a>
 
    
